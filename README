@@ -13,6 +13,8 @@ cd web
 php -S localhost:8000
 
 
+http://localhost:8000/landing.html
+
 http://localhost:8000/task1.html
 
 http://localhost:8000/task2.html
@@ -22,4 +24,4 @@ http://localhost:8000/task3.html
 
 online demo
 
-http://u6native.soil.by
+http://u6-test-native.soil.by/landing.html
