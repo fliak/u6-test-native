@@ -2,5 +2,24 @@
 U6-test-native
 ==============
 
+Init
+
+mysql -u root -proot < docs/structure.sql
+mysql -u root -proot u6_test < docs/fixtures.sql
 
 
+cd web
+
+php -S localhost:8000
+
+
+http://localhost:8000/task1.html
+
+http://localhost:8000/task2.html
+
+http://localhost:8000/task3.html
+
+
+online demo
+
+http://u6native.soil.by
